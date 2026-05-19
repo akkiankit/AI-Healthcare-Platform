@@ -478,13 +478,13 @@
           <mxGeometry height="78" width="260" x="349" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="ycZtSNWJBQj7aAsX0beC-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next possible step:&#xa;Prescription Draft Assistance" vertex="1">
-          <mxGeometry height="102" width="260" x="60" y="1760" as="geometry" />
+          <mxGeometry height="70" width="260" x="70" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="ycZtSNWJBQj7aAsX0beC-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next possible step:&#xa;Condition-based AI Assistance" vertex="1">
-          <mxGeometry height="102" width="260" x="354.5" y="1760" as="geometry" />
+          <mxGeometry height="70" width="260" x="354.5" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="ycZtSNWJBQj7aAsX0beC-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next possible step:&#xa;Diagnostic Report Simplification" vertex="1">
-          <mxGeometry height="102" width="260" x="630" y="1760" as="geometry" />
+          <mxGeometry height="70" width="260" x="630" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="ycZtSNWJBQj7aAsX0beC-25" edge="1" parent="1" source="ycZtSNWJBQj7aAsX0beC-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" target="ycZtSNWJBQj7aAsX0beC-5" value="">
           <mxGeometry relative="1" as="geometry">
@@ -570,7 +570,8 @@
         <mxCell id="ycZtSNWJBQj7aAsX0beC-47" edge="1" parent="1" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" target="ycZtSNWJBQj7aAsX0beC-24" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1670" />
+              <mxPoint x="670" y="1610" />
+              <mxPoint x="700" y="1610" />
               <mxPoint x="690" y="1680" />
             </Array>
             <mxPoint x="479" y="1590" as="sourcePoint" />
