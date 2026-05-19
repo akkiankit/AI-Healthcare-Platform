@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="18">
   <diagram name="1. Patient Registration + Unique Patient ID" id="sQ0D0Dy2m9azZwH8A_Ol">
-    <mxGraphModel dx="1277" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,13 @@
           <mxGeometry height="54" width="212" x="20" y="788" as="geometry" />
         </mxCell>
         <mxCell id="0mDn1XfAiVLl1yNv3wLW-157" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Validate patient data" vertex="1">
-          <mxGeometry height="54" width="212" x="282" y="788" as="geometry" />
+          <mxGeometry height="54" width="212" x="303" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="2Yzogfd7anb3vhzIYf_F-2" edge="1" parent="1" source="0mDn1XfAiVLl1yNv3wLW-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0mDn1XfAiVLl1yNv3wLW-157">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0mDn1XfAiVLl1yNv3wLW-158" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Check duplicate patient&#xa;Phone / Name / DOB optional" vertex="1">
-          <mxGeometry height="102" width="260" x="258" y="892" as="geometry" />
+          <mxGeometry height="80" width="260" x="255" y="760" as="geometry" />
         </mxCell>
         <mxCell id="0mDn1XfAiVLl1yNv3wLW-159" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Existing patient found?" vertex="1">
           <mxGeometry height="218" width="218" x="279" y="1044" as="geometry" />
@@ -93,19 +96,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mDn1XfAiVLl1yNv3wLW-175" edge="1" parent="1" source="0mDn1XfAiVLl1yNv3wLW-155" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="0mDn1XfAiVLl1yNv3wLW-157" value="Yes">
+        <mxCell id="0mDn1XfAiVLl1yNv3wLW-175" edge="1" parent="1" source="0mDn1XfAiVLl1yNv3wLW-155" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" target="0mDn1XfAiVLl1yNv3wLW-158" value="Yes">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="388" y="751" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mDn1XfAiVLl1yNv3wLW-176" edge="1" parent="1" source="0mDn1XfAiVLl1yNv3wLW-157" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="0mDn1XfAiVLl1yNv3wLW-158" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mDn1XfAiVLl1yNv3wLW-177" edge="1" parent="1" source="0mDn1XfAiVLl1yNv3wLW-158" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="0mDn1XfAiVLl1yNv3wLW-159" value="">
+        <mxCell id="0mDn1XfAiVLl1yNv3wLW-177" edge="1" parent="1" source="0mDn1XfAiVLl1yNv3wLW-157" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" target="0mDn1XfAiVLl1yNv3wLW-159" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
