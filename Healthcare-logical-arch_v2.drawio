@@ -22,43 +22,43 @@
         <mxCell id="zyCkvp891rHUshAORKC4-46" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="zyCkvp891rHUshAORKC4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Receptionist opens Patient Registration screen" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Receptionist opens Patient Registration screen" vertex="1">
           <mxGeometry height="78" width="160" x="50" y="384" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Receptionist confirms&#xa;Use existing or create new" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Receptionist confirms&#xa;Use existing or create new" vertex="1">
           <mxGeometry height="60" width="180.5" x="49.5" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Enter patient basic details" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Enter patient basic details" vertex="1">
           <mxGeometry height="54" width="150" x="330" y="396" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Frontend validates required fields" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Frontend validates required fields" vertex="1">
           <mxGeometry height="60" width="190" x="520" y="395" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-48" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zyCkvp891rHUshAORKC4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Submit registration request" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Submit registration request" vertex="1">
           <mxGeometry height="54" width="200" x="750" y="400" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-49" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="zyCkvp891rHUshAORKC4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Show possible existing patient record" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Show possible existing patient record" vertex="1">
           <mxGeometry height="78" width="260" x="516.5" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend API receives request" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend API receives request" vertex="1">
           <mxGeometry height="78" width="260" x="1120" y="388" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-53" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" target="zyCkvp891rHUshAORKC4-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Auth &amp;amp; RBAC check&#xa;Is user allowed to register patient?" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Auth &amp;amp; RBAC check&#xa;Is user allowed to register patient?" vertex="1">
           <mxGeometry height="102" width="260" x="1450" y="372" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Check duplicate patient&#xa;Phone / Name / DOB optional" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Check duplicate patient&#xa;Phone / Name / DOB optional" vertex="1">
           <mxGeometry height="102" width="260" x="1260" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Validate patient data" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Validate patient data" vertex="1">
           <mxGeometry height="54" width="212" x="1700" y="550" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-58" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zyCkvp891rHUshAORKC4-11">
@@ -85,7 +85,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-19" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Existing patient found?" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-19" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Existing patient found?" vertex="1">
           <mxGeometry height="218" width="218" x="2016" y="468" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-66" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-20" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="zyCkvp891rHUshAORKC4-22">
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Generate Unique Patient ID / Token" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Generate Unique Patient ID / Token" vertex="1">
           <mxGeometry height="78" width="260" x="2350" y="537" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-69" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="zyCkvp891rHUshAORKC4-12">
@@ -120,19 +120,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return Patient ID to frontend" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return Patient ID to frontend" vertex="1">
           <mxGeometry height="78" width="260" x="2870" y="538" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-54" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="zyCkvp891rHUshAORKC4-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Save patient record in database" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Save patient record in database" vertex="1">
           <mxGeometry height="60" width="260" x="2440" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return access denied" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return access denied" vertex="1">
           <mxGeometry height="54" width="212" x="1825" y="223" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Create audit log&#xa;Patient registered" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Create audit log&#xa;Patient registered" vertex="1">
           <mxGeometry height="78" width="189" x="1836" y="95" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-26" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-8" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="zyCkvp891rHUshAORKC4-9" value="">
@@ -172,16 +172,16 @@
         <mxCell id="zyCkvp891rHUshAORKC4-51" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="zyCkvp891rHUshAORKC4-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Display registration success" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Display registration success" vertex="1">
           <mxGeometry height="78" width="180" x="800" y="782" as="geometry" />
         </mxCell>
         <mxCell id="zyCkvp891rHUshAORKC4-50" edge="1" parent="1" source="zyCkvp891rHUshAORKC4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="zyCkvp891rHUshAORKC4-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Patient ID example:&#xa;OPD-2026-000124" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Patient ID example:&#xa;OPD-2026-000124" vertex="1">
           <mxGeometry height="78" width="153" x="570" y="782" as="geometry" />
         </mxCell>
-        <mxCell id="zyCkvp891rHUshAORKC4-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next possible step:&#xa;Start Patient Intake" vertex="1">
+        <mxCell id="zyCkvp891rHUshAORKC4-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FFFFFF,#1F2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next possible step:&#xa;Start Patient Intake" vertex="1">
           <mxGeometry height="78" width="161" x="340" y="782" as="geometry" />
         </mxCell>
       </root>
