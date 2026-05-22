@@ -504,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ufrY6Ee6dTqV9FlivMq9" name="3.Doctor Consultation Dashboard">
-    <mxGraphModel dx="1702" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2189" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -515,7 +515,7 @@
           <mxGeometry height="148" width="310" x="5617" y="137" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FCF3CF;strokeColor=#D4AC0D;fontColor=#000;fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="🤖 AI Layer" vertex="1">
-          <mxGeometry height="172" width="1796" x="1100" y="850" as="geometry" />
+          <mxGeometry height="172" width="1796" x="600" y="860" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#EBEDEF;strokeColor=#7B7D7D;fontColor=#000;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" value="⚙ Backend / API Layer" vertex="1">
           <mxGeometry height="265" width="5187" x="380" y="20" as="geometry" />
@@ -588,6 +588,9 @@
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch latest intake details" vertex="1">
           <mxGeometry height="54" width="249" x="1310" y="123" as="geometry" />
         </mxCell>
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-63" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" target="XiSoq_DjBBsuYhYjiiVC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch consultation history" vertex="1">
           <mxGeometry height="54" width="247" x="1630" y="125" as="geometry" />
         </mxCell>
@@ -595,19 +598,19 @@
           <mxGeometry height="54" width="237" x="5305" y="184" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch AI Summary&#xa;Based on intake details &amp;amp; history" vertex="1">
-          <mxGeometry height="102" width="260" x="1125" y="885" as="geometry" />
+          <mxGeometry height="102" width="260" x="625" y="895" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="AI Follow-up Questions&#xa;shown to doctor" vertex="1">
-          <mxGeometry height="78" width="223" x="1435" y="897" as="geometry" />
+          <mxGeometry height="78" width="223" x="935" y="907" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-26" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor suggests investigations&#xa;Blood • Urine • X-ray • CT" vertex="1">
-          <mxGeometry height="102" width="260" x="2018" y="885" as="geometry" />
+          <mxGeometry height="102" width="260" x="1518" y="895" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Lab Assistant uploads reports/results" vertex="1">
-          <mxGeometry height="78" width="260" x="2328" y="897" as="geometry" />
+          <mxGeometry height="78" width="260" x="1828" y="907" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="LLM analyzes report&#xa;and integrates summary" vertex="1">
-          <mxGeometry height="78" width="233" x="2638" y="897" as="geometry" />
+          <mxGeometry height="78" width="233" x="2138" y="907" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Patient Consultation Records" vertex="1">
           <mxGeometry height="78" width="260" x="5642" y="172" as="geometry" />
@@ -643,13 +646,6 @@
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-40" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-21" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-22" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-41" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-22" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.46;entryY=0;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-24" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2839" y="178" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-42" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-24" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-25" value="">
