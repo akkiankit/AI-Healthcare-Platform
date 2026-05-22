@@ -198,12 +198,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dlpVeZGU08-FFw4OjiKL" name="Page-2">
-    <mxGraphModel dx="1532" dy="8608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="dlpVeZGU08-FFw4OjiKL" name="2. Patient Intake Flow">
+    <mxGraphModel dx="5107" dy="10727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="66VoGqE8K4JcuH6fpitN-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FADBD8;strokeColor=#EC7063;fontColor=#000;" value="🔒 Audit &amp; Security Layer" vertex="1">
+        <mxCell id="66VoGqE8K4JcuH6fpitN-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FADBD8;strokeColor=#EC7063;fontColor=#000;fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="🔒 Audit &amp; Security Layer" vertex="1">
           <mxGeometry height="252" width="292" x="3796" y="-7123" as="geometry" />
         </mxCell>
         <mxCell id="66VoGqE8K4JcuH6fpitN-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#D5F5E3;strokeColor=#52BE80;fontColor=#000;" value="🗄 Data Layer" vertex="1">
@@ -284,7 +284,7 @@
         <mxCell id="66VoGqE8K4JcuH6fpitN-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend validates intake data" vertex="1">
           <mxGeometry height="78" width="260" x="3101" y="-6984" as="geometry" />
         </mxCell>
-        <mxCell id="66VoGqE8K4JcuH6fpitN-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Save intake record in database" vertex="1">
+        <mxCell id="66VoGqE8K4JcuH6fpitN-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="Save intake record in database" vertex="1">
           <mxGeometry height="78" width="260" x="3461" y="-6984" as="geometry" />
         </mxCell>
         <mxCell id="66VoGqE8K4JcuH6fpitN-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Access denied" vertex="1">
