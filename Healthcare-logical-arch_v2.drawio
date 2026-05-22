@@ -504,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ufrY6Ee6dTqV9FlivMq9" name="3.Doctor Consultation Dashboard">
-    <mxGraphModel dx="766" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2189" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,16 +588,16 @@
           <mxGeometry height="78" width="260" x="1290" y="520" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return saved consultation confirmation" vertex="1">
-          <mxGeometry height="78" width="260" x="2540" y="335.5" as="geometry" />
+          <mxGeometry height="78" width="260" x="2080" y="390" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next Step:&#xa;Prescription Draft Assistance" vertex="1">
-          <mxGeometry height="102" width="260" x="2850" y="171.5" as="geometry" />
+          <mxGeometry height="102" width="260" x="2440" y="228" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next Step:&#xa;Condition-based AI Assistance" vertex="1">
-          <mxGeometry height="102" width="260" x="2850" y="323.5" as="geometry" />
+          <mxGeometry height="102" width="260" x="2440" y="380" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Next Step:&#xa;Diagnostic Report Simplification" vertex="1">
-          <mxGeometry height="102" width="260" x="2850" y="475.5" as="geometry" />
+          <mxGeometry height="102" width="260" x="2440" y="532" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend API receives request" vertex="1">
           <mxGeometry height="60" width="170" x="630" y="117.5" as="geometry" />
@@ -709,32 +709,19 @@
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-47" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-23" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="XiSoq_DjBBsuYhYjiiVC-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-49" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-31" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-14" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2980" y="155" />
-              <mxPoint x="3005" y="499" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-49" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-31" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="XiSoq_DjBBsuYhYjiiVC-14" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-50" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-15" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2825" y="222.5" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-50" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-14" style="startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="XiSoq_DjBBsuYhYjiiVC-15" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-51" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-14" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-16" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-52" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="XiSoq_DjBBsuYhYjiiVC-17" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2825" y="526.5" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-52" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-14" style="startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="XiSoq_DjBBsuYhYjiiVC-17" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-53" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-11" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.4;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="XiSoq_DjBBsuYhYjiiVC-26" value="">
           <mxGeometry relative="1" as="geometry" />
