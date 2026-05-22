@@ -508,13 +508,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FADBD8;strokeColor=#EC7063;fontColor=#000;" value="🔒 Audit &amp; Security Layer" vertex="1">
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FADBD8;strokeColor=#EC7063;fontColor=#000;fontStyle=1;fontSize=20;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" value="🔒 Audit &amp; Security Layer" vertex="1">
           <mxGeometry height="276" width="310" x="5977" y="21" as="geometry" />
         </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#D5F5E3;strokeColor=#52BE80;fontColor=#000;" value="🗄 Data Layer" vertex="1">
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#D5F5E3;strokeColor=#52BE80;fontColor=#000;fontStyle=1;fontSize=20;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" value="🗄 Data Layer" vertex="1">
           <mxGeometry height="148" width="310" x="5617" y="137" as="geometry" />
         </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FCF3CF;strokeColor=#D4AC0D;fontColor=#000;" value="🤖 AI Layer" vertex="1">
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FCF3CF;strokeColor=#D4AC0D;fontColor=#000;fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="🤖 AI Layer" vertex="1">
           <mxGeometry height="172" width="1796" x="2839" y="813" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#EBEDEF;strokeColor=#7B7D7D;fontColor=#000;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" value="⚙ Backend / API Layer" vertex="1">
