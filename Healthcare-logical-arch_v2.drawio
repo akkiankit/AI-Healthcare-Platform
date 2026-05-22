@@ -504,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ufrY6Ee6dTqV9FlivMq9" name="3.Doctor Consultation Dashboard">
-    <mxGraphModel dx="766" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1532" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -517,7 +517,7 @@
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FCF3CF;strokeColor=#D4AC0D;fontColor=#000;" value="🤖 AI Layer" vertex="1">
           <mxGeometry height="172" width="1796" x="2839" y="813" as="geometry" />
         </mxCell>
-        <mxCell id="XiSoq_DjBBsuYhYjiiVC-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#EBEDEF;strokeColor=#7B7D7D;fontColor=#000;" value="⚙ Backend / API Layer" vertex="1">
+        <mxCell id="XiSoq_DjBBsuYhYjiiVC-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#EBEDEF;strokeColor=#7B7D7D;fontColor=#000;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" value="⚙ Backend / API Layer" vertex="1">
           <mxGeometry height="265" width="5187" x="380" y="20" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#E8DAEF;strokeColor=#AF7AC5;fontColor=#000;fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="🖥 Frontend / UI Layer" vertex="1">
