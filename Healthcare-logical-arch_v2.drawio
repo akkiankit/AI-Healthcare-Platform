@@ -569,7 +569,7 @@
           <mxGeometry height="102" width="260" x="6647" y="656" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend API receives request" vertex="1">
-          <mxGeometry height="78" width="260" x="1030" y="130" as="geometry" />
+          <mxGeometry height="60" width="260" x="740" y="120" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-60" edge="1" parent="1" source="XiSoq_DjBBsuYhYjiiVC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="XiSoq_DjBBsuYhYjiiVC-8">
           <mxGeometry relative="1" as="geometry" />
@@ -583,13 +583,13 @@
           <mxGeometry height="102" width="260" x="405" y="96" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch patient profile" vertex="1">
-          <mxGeometry height="54" width="209" x="1340" y="142" as="geometry" />
+          <mxGeometry height="54" width="209" x="1049" y="123.5" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch latest intake details" vertex="1">
-          <mxGeometry height="54" width="249" x="1600" y="142" as="geometry" />
+          <mxGeometry height="54" width="249" x="1310" y="123" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch consultation history" vertex="1">
-          <mxGeometry height="54" width="247" x="1898" y="142" as="geometry" />
+          <mxGeometry height="54" width="247" x="1630" y="125" as="geometry" />
         </mxCell>
         <mxCell id="XiSoq_DjBBsuYhYjiiVC-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Save consultation record" vertex="1">
           <mxGeometry height="54" width="237" x="5305" y="184" as="geometry" />
