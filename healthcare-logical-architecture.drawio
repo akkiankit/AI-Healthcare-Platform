@@ -647,32 +647,32 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nxbkGEL3gpBiSxNmGi8x" name="4.AI Patient Summary Generation">
-    <mxGraphModel dx="766" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1329" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="67ADiOB_549qT0E-Rpfz-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor / Doctor Assistant clicks&#xa;Generate AI Patient Summary" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Doctor / Doctor Assistant clicks&#xa;Generate AI Patient Summary" vertex="1">
           <mxGeometry height="126" width="260" x="136" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Frontend sends summary request&#xa;Patient ID + Intake ID" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Frontend sends summary request&#xa;Patient ID + Intake ID" vertex="1">
           <mxGeometry height="102" width="260" x="136" y="196" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend API receives request" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Backend API receives request" vertex="1">
           <mxGeometry height="78" width="260" x="136" y="348" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Auth &amp;amp; RBAC check&#xa;Can user generate AI summary?" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Auth &amp;amp; RBAC check&#xa;Can user generate AI summary?" vertex="1">
           <mxGeometry height="102" width="260" x="136" y="476" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return access denied" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Return access denied" vertex="1">
           <mxGeometry height="54" width="212" x="20" y="652" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch patient basic details" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Fetch patient basic details" vertex="1">
           <mxGeometry height="54" width="251" x="282" y="652" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch latest intake data&#xa;Symptoms • Vitals • History • Allergies • Medications" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Fetch latest intake data&#xa;Symptoms • Vitals • History • Allergies • Medications" vertex="1">
           <mxGeometry height="126" width="260" x="277" y="756" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Validate required intake data" vertex="1">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validate required intake data" vertex="1">
           <mxGeometry height="78" width="260" x="277" y="932" as="geometry" />
         </mxCell>
         <mxCell id="67ADiOB_549qT0E-Rpfz-9" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Enough information&#xa;to generate summary?" vertex="1">
@@ -732,41 +732,41 @@
         <mxCell id="67ADiOB_549qT0E-Rpfz-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Final summary available&#xa;in consultation record" vertex="1">
           <mxGeometry height="78" width="233" x="594" y="3641" as="geometry" />
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-28" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-2" value="">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-28" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-29" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-3" value="">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-29" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-30" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-4" value="">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-30" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-4" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-31" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-5" value="No">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-31" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-5" value="No">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="126" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-32" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-6" value="Yes">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-32" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-6" value="Yes">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="407" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-33" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-7" value="">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-33" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67ADiOB_549qT0E-Rpfz-34" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="67ADiOB_549qT0E-Rpfz-8" value="">
+        <mxCell id="67ADiOB_549qT0E-Rpfz-34" edge="1" parent="1" source="67ADiOB_549qT0E-Rpfz-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="67ADiOB_549qT0E-Rpfz-8" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -890,38 +890,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hMhCaEvrNHP3TLv-ojfu" name="5.AI Follow-up Question Assistant">
-    <mxGraphModel dx="1094" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1076" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor / Doctor Assistant clicks&#xa;Generate Follow-up Questions" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Doctor / Doctor Assistant clicks&#xa;Generate Follow-up Questions" vertex="1">
           <mxGeometry height="126" width="260" x="136" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Frontend sends request&#xa;Patient ID + Intake ID" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Frontend sends request&#xa;Patient ID + Intake ID" vertex="1">
           <mxGeometry height="78" width="228" x="153" y="196" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Backend API receives request" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Backend API receives request" vertex="1">
           <mxGeometry height="78" width="260" x="136" y="324" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Auth &amp;amp; RBAC check&#xa;Can user generate follow-up questions?" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Auth &amp;amp; RBAC check&#xa;Can user generate follow-up questions?" vertex="1">
           <mxGeometry height="102" width="260" x="136" y="452" as="geometry" />
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return access denied" vertex="1">
           <mxGeometry height="54" width="212" x="20" y="628" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch patient basic details" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Fetch patient basic details" vertex="1">
           <mxGeometry height="54" width="251" x="282" y="628" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Fetch intake data&#xa;Symptoms • Duration • Vitals • History • Allergies • Medications" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Fetch intake data&#xa;Symptoms • Duration • Vitals • History • Allergies • Medications" vertex="1">
           <mxGeometry height="126" width="260" x="277" y="732" as="geometry" />
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Validate intake data" vertex="1">
           <mxGeometry height="54" width="205" x="305" y="908" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-9" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Symptoms available?" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-9" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Symptoms available or Based on Valid Intake data ?" vertex="1">
           <mxGeometry height="202" width="202" x="306" y="1012" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return message&#xa;Please enter symptoms first" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return message&#xa;Please enter intake details or symptoms first to generate follow up questions." vertex="1">
           <mxGeometry height="78" width="260" x="122" y="1288" as="geometry" />
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Send data to AI Follow-up Question Service" vertex="1">
@@ -948,16 +948,16 @@
         <mxCell id="7O7b29AOVoy8qYkvtBXh-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Return AI generation failed&#xa;or retry safely" vertex="1">
           <mxGeometry height="78" width="253" x="282" y="2364" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Save follow-up questions as AI draft" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="show follow-up questions as AI draft along with the possible answer like true, false, number of days etc." vertex="1">
           <mxGeometry height="78" width="260" x="585" y="2364" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Create audit log&#xa;Follow-up questions generated" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Create audit log&#xa;Follow-up questions generated and answer selected will be saved." vertex="1">
           <mxGeometry height="102" width="260" x="585" y="2492" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Display questions on Doctor Dashboard" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Display questions/Possible answer on Doctor Dashboard" vertex="1">
           <mxGeometry height="78" width="260" x="585" y="2644" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor reviews questions" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor reviews questions and select the answer given by patient" vertex="1">
           <mxGeometry height="54" width="239" x="596" y="2772" as="geometry" />
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-23" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor wants to use questions?" vertex="1">
@@ -966,7 +966,7 @@
         <mxCell id="7O7b29AOVoy8qYkvtBXh-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Keep as ignored AI draft" vertex="1">
           <mxGeometry height="54" width="232" x="452" y="3252" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor asks selected questions&#xa;and updates intake / notes" vertex="1">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Doctor asks selected questions&#xa;and updates intake / notes / Doctor can also Add/edit the follow up question" vertex="1">
           <mxGeometry height="102" width="260" x="733" y="3228" as="geometry" />
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-26" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Save updated intake / consultation notes" vertex="1">
@@ -978,29 +978,29 @@
         <mxCell id="7O7b29AOVoy8qYkvtBXh-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Final updated information available&#xa;for consultation and summary" vertex="1">
           <mxGeometry height="126" width="260" x="733" y="3660" as="geometry" />
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-29" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="7O7b29AOVoy8qYkvtBXh-2" value="">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-29" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="7O7b29AOVoy8qYkvtBXh-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-30" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="7O7b29AOVoy8qYkvtBXh-3" value="">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-30" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="7O7b29AOVoy8qYkvtBXh-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-31" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="7O7b29AOVoy8qYkvtBXh-4" value="">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-31" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="7O7b29AOVoy8qYkvtBXh-4" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-32" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="7O7b29AOVoy8qYkvtBXh-5" value="No">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-32" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="7O7b29AOVoy8qYkvtBXh-5" value="No">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="126" y="591" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7O7b29AOVoy8qYkvtBXh-33" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="7O7b29AOVoy8qYkvtBXh-6" value="Yes">
+        <mxCell id="7O7b29AOVoy8qYkvtBXh-33" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" target="7O7b29AOVoy8qYkvtBXh-6" value="Yes">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="407" y="591" />
