@@ -890,7 +890,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hMhCaEvrNHP3TLv-ojfu" name="5.AI Follow-up Question Assistant">
-    <mxGraphModel dx="1076" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -974,6 +974,9 @@
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Create audit log&#xa;Follow-up questions used / notes updated" vertex="1">
           <mxGeometry height="102" width="260" x="733" y="3508" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhxy7dUa9Sd9bYsUVa9-2" edge="1" parent="1" source="7O7b29AOVoy8qYkvtBXh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vKhxy7dUa9Sd9bYsUVa9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7O7b29AOVoy8qYkvtBXh-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Final updated information available&#xa;for consultation and summary" vertex="1">
           <mxGeometry height="126" width="260" x="733" y="3660" as="geometry" />
@@ -1128,6 +1131,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhxy7dUa9Sd9bYsUVa9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload / share the data to EHR/EMR" vertex="1">
+          <mxGeometry height="130" width="140" x="1080" y="3658" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
