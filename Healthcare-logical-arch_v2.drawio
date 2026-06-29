@@ -1405,7 +1405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G49IonU5XwEr6E0Se7Ey" name="6.Condition-based AI Assistance">
-    <mxGraphModel dx="3830" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1987,7 +1987,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ok6Xza1YN6-M2J5rs0ts" name="7.Prescription Draft Assistance">
-    <mxGraphModel dx="1393" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2537,7 +2537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jwFxbdr7VZO2-UGKMs3s" name="8.Medicine Composition → Brand Mapping">
-    <mxGraphModel dx="766" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
