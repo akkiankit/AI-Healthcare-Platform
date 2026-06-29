@@ -1405,7 +1405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G49IonU5XwEr6E0Se7Ey" name="6.Condition-based AI Assistance">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3830" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1425,7 +1425,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="⚙ Backend / API Layer" mermaidId="n:BACKEND" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="⚙ Backend / API Layer" id="yy-h4GDSVNWtCWFIeYqc-4">
-          <mxCell parent="yy-h4GDSVNWtCWFIeYqc-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+          <mxCell parent="yy-h4GDSVNWtCWFIeYqc-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="1383" width="1007" x="580" y="1096" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1505,7 +1505,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="🔒 Audit &amp; Security Layer" mermaidId="n:AUDIT" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="🔒 Audit &amp; Security Layer" id="yy-h4GDSVNWtCWFIeYqc-17">
-          <mxCell parent="yy-h4GDSVNWtCWFIeYqc-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+          <mxCell parent="yy-h4GDSVNWtCWFIeYqc-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="357" width="397" x="1817" y="1701" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1527,7 +1527,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="🖥 Frontend / UI Layer" mermaidId="n:FRONTEND" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="🖥 Frontend / UI Layer" id="yy-h4GDSVNWtCWFIeYqc-21">
-          <mxCell parent="yy-h4GDSVNWtCWFIeYqc-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+          <mxCell parent="yy-h4GDSVNWtCWFIeYqc-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="2978" width="327" x="2234" y="1244" as="geometry" />
           </mxCell>
         </UserObject>
@@ -2879,7 +2879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cl4lOxbDZkFynxwkYy2E" name="9.Diagnostic Report Simplification Assistant">
-    <mxGraphModel dx="3830" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
